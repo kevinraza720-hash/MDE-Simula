@@ -38,12 +38,13 @@ Business enquiries: [mde.officialmg@gmail.com](mailto:mde.officialmg@gmail.com).
 - `en.html`: English calculator (GBP defaults)
 - `offre.html`: French offer page
 - `offer.html`: English offer page
+- `agency-demo.html`: self-contained fictional agency branding preview (editable name and colour; shareable URL)
 
 Hosted as static files by GitHub Pages. No database, account system, built-in email sending or payment integration.
 
 ## Next milestones
 
-1. Browser/device regression checks for both languages and boundary calculations.
+1. Browser/device regression checks for both languages, white-label preview and boundary calculations.
 2. Configurable white-label theme (branding, logo and client-specific defaults).
 3. Commercial qualification and outreach using separate private business records.
 4. Validate obligations and integration requirements before a client installation.
